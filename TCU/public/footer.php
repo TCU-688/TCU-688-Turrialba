@@ -1,3 +1,6 @@
+<?php
+
+?>
 </main>
 <footer class="site-footer">
     <div class="container">
@@ -30,3 +33,4 @@
     <script src="public/js/filtro.js"></script>
 </body>
 </html>
+?>
